@@ -1,14 +1,14 @@
 # Natas1 | OverTheWire Natas Wargames
 
-## Entering Credentials
+### Entering Credentials
 - natas1
 - 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
 
-## Challenge
+### Challenge
 The webpage is yet again blank. Trying to open Inspect panel from the context menu is not possible as the webpage is programmed to block right-clicking. 
 We must find another way.
 
-## Solution
+### Solution
 There is another way to open the Inspect panel, and it is honestly a preferred, much faster way.
 Pressing Ctrl + Shift + I opens the Inspect panel directly. 
 
@@ -24,5 +24,5 @@ next level on this page, but rightclicking has been blocked!
 
 A Division container with a commented password!
 
-Takeaway: Using keybind for opening the Inspect panel. 
+## Takeaway: Using keybind for opening the Inspect panel. 
 For Windows, its Ctrl + Shift + I.

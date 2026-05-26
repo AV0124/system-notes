@@ -1,13 +1,13 @@
 # Natas0 | OverTheWire Natas Wargame
 
-## Enetering Credentials
+### Enetering Credentials
 - natas0
 - natas0
 
-## Challenge
+### Challenge
 Looking for the password of Natas1, but the page seems to be empty.
 
-## Solution
+### Solution
 A webpage is never empty. Right-Clicking anywhere on a page reveals the context menu, which gives the option to Inspect the page, revealing hidden properties.
 
 The 'Elements' section of the Inspect panel shows us the HMTL index/source for the page. For this challenge, I found the index to be:
@@ -36,4 +36,4 @@ You can find the password for the next level on this page.
 
 The password was hidden in the body of the index as a comment.
 
-Takeaway: Webpages can be inspected for more information.
+## Takeaway: Webpages can be inspected for more information.
